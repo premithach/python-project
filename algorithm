@@ -1,0 +1,27 @@
+Step 1: Start
+Step 2: Initialize the pin, username and amount in account 
+Step 3: Provide the choice for the user as follows:-
+            Logout and exit
+            Views bank balance 
+            Withdraw cash
+            Deposit cash
+            Change pin
+            Return Card
+Step 4: If the user enters '0' then it exits from the execution
+Step 5: If anything except '0' is given, the user have to, enter the connect  
+           password..
+Step 6: If the user enters wrong password for more than 3 times the system      
+           automatically exits.
+Step 7: If the user gives ‘1’ as choice then   the amount in account is displayed in 
+           output screen
+Step 8: If the user gives '2' as choice then the user will be asked to enter the 
+           amount of withdrawl after amount being withdrawl the remaining account
+            will be shown in the screen 
+Step 9: If the user enters an amount greater than the account balance
+Step 10: If the user gives ‘3’ as choice then the user will be asked to enter the
+            deposit amount then the total amount will be displayed in the screen
+Step 11: If the user gives ‘4’ as choice the user is asked to enter the new pin and
+            confirm before pressing yes
+Step 12: If the user gives '5' as a choice then he/she is asked to confirm once    before returning the card over the user types yes means the card is returned   
+           successfully
+Step 13: Stop
